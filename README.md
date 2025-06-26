@@ -16,3 +16,6 @@ In the circuit, I used a PIR (Passive Infrared) sensor to detect human motion. T
 
 This task helped me understand the core concept of motion sensing in IoT-based security systems. Although I worked in a simulation environment, the logic and hardware interaction were realistic and useful. In a real-world project, this system could be extended by adding a camera (like an ESP32-CAM) to capture images when motion is detected, and alerts could be sent to a user’s mobile app or email using platforms like Blynk, Telegram, or IFTTT. This task showed me how IoT can be applied in home and office security systems in a cost-effective way. I also improved my skills in circuit simulation, sensor integration, and basic coding logic. Overall, Task 3 was an excellent learning experience that combined sensor technology, Arduino programming, and real-time feedback—all of which are essential in developing smart security solutions.
 
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/414d8ea2-d5d7-4af0-a61b-e1386a9fb2fa)
